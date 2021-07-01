@@ -1,0 +1,10 @@
+C:\Users\rolando\source\repos\ExamenProg2\ExamenProg2\bin\Debug\ExamenProg2.exe.config
+C:\Users\rolando\source\repos\ExamenProg2\ExamenProg2\bin\Debug\ExamenProg2.exe
+C:\Users\rolando\source\repos\ExamenProg2\ExamenProg2\bin\Debug\ExamenProg2.pdb
+C:\Users\rolando\source\repos\ExamenProg2\ExamenProg2\obj\Debug\ExamenProg2.csproj.AssemblyReference.cache
+C:\Users\rolando\source\repos\ExamenProg2\ExamenProg2\obj\Debug\ExamenProg2.Form1.resources
+C:\Users\rolando\source\repos\ExamenProg2\ExamenProg2\obj\Debug\ExamenProg2.Properties.Resources.resources
+C:\Users\rolando\source\repos\ExamenProg2\ExamenProg2\obj\Debug\ExamenProg2.csproj.GenerateResource.cache
+C:\Users\rolando\source\repos\ExamenProg2\ExamenProg2\obj\Debug\ExamenProg2.csproj.CoreCompileInputs.cache
+C:\Users\rolando\source\repos\ExamenProg2\ExamenProg2\obj\Debug\ExamenProg2.exe
+C:\Users\rolando\source\repos\ExamenProg2\ExamenProg2\obj\Debug\ExamenProg2.pdb
